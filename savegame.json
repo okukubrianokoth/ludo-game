@@ -1,0 +1,146 @@
+{
+  "current_turn": 0,
+  "dice_value": null,
+  "players": [
+    {
+      "name": "Red",
+      "color": [
+        220,
+        40,
+        40
+      ],
+      "entry_global": 0,
+      "tokens": [
+        {
+          "id": 1,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 2,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 3,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 4,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        }
+      ]
+    },
+    {
+      "name": "Green",
+      "color": [
+        40,
+        180,
+        80
+      ],
+      "entry_global": 13,
+      "tokens": [
+        {
+          "id": 1,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 2,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 3,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 4,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        }
+      ]
+    },
+    {
+      "name": "Yellow",
+      "color": [
+        230,
+        210,
+        70
+      ],
+      "entry_global": 26,
+      "tokens": [
+        {
+          "id": 1,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 2,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 3,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 4,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        }
+      ]
+    },
+    {
+      "name": "Blue",
+      "color": [
+        60,
+        120,
+        220
+      ],
+      "entry_global": 39,
+      "tokens": [
+        {
+          "id": 1,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 2,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 3,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        },
+        {
+          "id": 4,
+          "state": "finished",
+          "ring_rel": -1,
+          "home_idx": -1
+        }
+      ]
+    }
+  ]
+}
